@@ -1,5 +1,6 @@
 ## Запуск проекта:
 
+server
 ```
 npm install
 cp .env.example .env
